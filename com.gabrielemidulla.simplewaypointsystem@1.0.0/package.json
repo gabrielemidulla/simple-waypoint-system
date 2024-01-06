@@ -1,0 +1,22 @@
+﻿{
+  "name": "com.gabrielemidulla.simple-waypoint-system",
+  "version": "1.0.0",
+  "displayName": "Simple Waypoint System",
+  "description": "A simple Waypoint System using uGUI and TextMeshPro",
+  "unity": "2023.1",
+  "unityRelease": "13f1",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "waypoints",
+    "unity",
+    "waypointsystem"
+  ],
+  "author": {
+    "name": "Gabriele Midulla",
+    "url": "https://github.com/gabrielemidulla"
+  },
+  "category": "Open-Source"
+}
