@@ -34,7 +34,7 @@ Vector3 position = new Vector3(2f, 5.2f, 7.1f);
 WaypointData waypoint = AddWaypoint(position, "myFirstWaypoint");
 
 // By object
-if(RemoveWaypoint(waypoint);)
+if(RemoveWaypoint(waypoint))
 {
     // Waypoint found in the list
 } else {
