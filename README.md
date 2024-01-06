@@ -1,7 +1,7 @@
 # Simple Waypoint System for Unity
 
 A lightweight and user-friendly Waypoint System for Unity, built using uGUI (Unity UI) and TextMeshPro for enhanced text rendering.
-
+![test](media/0.png)
 ## Features
 
 - **Easy Integration:** Quickly integrate the system by just dragging the WaypointCanvas prefab in your scene.
